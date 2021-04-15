@@ -1,4 +1,4 @@
-<?php namespace GeneaLabs\LaravelMaps\Facades;
+<?php namespace Vaporic\LaravelMaps\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

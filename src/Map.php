@@ -1,4 +1,4 @@
-<?php namespace GeneaLabs\LaravelMaps;
+<?php namespace Vaporic\LaravelMaps;
 
 class Map
 {

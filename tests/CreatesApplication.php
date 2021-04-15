@@ -1,6 +1,6 @@
-<?php namespace GeneaLabs\LaravelMaps\Tests;
+<?php namespace Vaporic\LaravelMaps\Tests;
 
-use GeneaLabs\LaravelModelCaching\Providers\Service as LaravelModelCachingService;
+use Vaporic\LaravelModelCaching\Providers\Service as LaravelModelCachingService;
 use Orchestra\Database\ConsoleServiceProvider;
 
 trait CreatesApplication

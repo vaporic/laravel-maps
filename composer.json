@@ -1,5 +1,5 @@
 {
-  "name": "genealabs/laravel-maps",
+  "name": "vaporic/laravel-maps",
   "description": "Eay - peasy map integration for Laravel.",
   "license": "MIT",
   "keywords": [
@@ -10,8 +10,8 @@
   ],
   "authors": [
     {
-      "name": "Mike Bronner",
-      "email": "mike@genealabs.com",
+      "name": "Hugo Espinosa",
+      "email": "vaporic@gmail.com",
       "role": "developer"
     }
   ],
@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "GeneaLabs\\LaravelMaps\\": "src/"
+      "Vaporic\\LaravelMaps\\": "src/"
     }
   },
   "require-dev": {
@@ -38,16 +38,16 @@
   },
   "autoload-dev": {
     "psr-4": {
-        "GeneaLabs\\LaravelMaps\\Tests\\": "tests/"
+        "Vaporic\\LaravelMaps\\Tests\\": "tests/"
     }
   },
   "extra": {
       "laravel": {
           "providers": [
-              "GeneaLabs\\LaravelMaps\\Providers\\Service"
+              "Vaporic\\LaravelMaps\\Providers\\Service"
           ],
           "aliases": {
-              "Map": "GeneaLabs\\LaravelMaps\\Facades\\Map"
+              "Map": "Vaporic\\LaravelMaps\\Facades\\Map"
           }
       }
   },

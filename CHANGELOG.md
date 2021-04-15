@@ -17,7 +17,7 @@
 - badges to README.
 
 ### Changed
-- package namespace to genealabs/laravel-maps.
+- package namespace to vaporic/laravel-maps.
 - and cleaned up code, did some refactoring.
 
 ## [0.3.8 - 0.3.9] - 2016-08-07
@@ -50,5 +50,5 @@
 - Change Log
 
 ### Changed
-- Namespace from Appitventures to GeneaLabs.
+- Namespace from Appitventures to Vaporic.
 - Installation instructions, affected areas of README.

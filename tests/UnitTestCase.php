@@ -1,4 +1,4 @@
-<?php namespace GeneaLabs\LaravelMaps\Tests;
+<?php namespace Vaporic\LaravelMaps\Tests;
 
 use Orchestra\Testbench\TestCase as BaseTestCase;
 

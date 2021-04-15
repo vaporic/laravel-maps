@@ -1,6 +1,6 @@
-<?php namespace GeneaLabs\LaravelMaps\Tests\Unit;
+<?php namespace Vaporic\LaravelMaps\Tests\Unit;
 
-use GeneaLabs\LaravelMaps\Tests\UnitTestCase;
+use Vaporic\LaravelMaps\Tests\UnitTestCase;
 
 class MapTest extends UnitTestCase
 {

@@ -1,6 +1,6 @@
-<?php namespace GeneaLabs\LaravelMaps\Providers;
+<?php namespace Vaporic\LaravelMaps\Providers;
 
-use GeneaLabs\LaravelMaps\Map;
+use Vaporic\LaravelMaps\Map;
 use Illuminate\Support\ServiceProvider;
 
 class Service extends ServiceProvider
@@ -16,6 +16,6 @@ class Service extends ServiceProvider
 
     public function provides() : array
     {
-        return array('genealabs-laravel-maps');
+        return array('vaporic-laravel-maps');
     }
 }
