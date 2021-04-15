@@ -2310,6 +2310,9 @@ class Map
         if ($this->region != "" && strlen($this->region) == 2) {
             $data_location .= "&region=".$this->region;
         }
+        if ($this->apiKey != "") {        
+            $data_location .= "&key=".$this->apiKey;
+        }
         $data = file_get_contents($data_location);
 
         $data = json_decode($data);
